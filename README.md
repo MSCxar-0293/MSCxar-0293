@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSCxar-0293&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCxar-0293&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCxar-0293&layout=compact&theme=dracula)
 (二)十四岁，事学生（bushi）
 
 是一个**Five**，什么也不会，就会白嫖。:-(
