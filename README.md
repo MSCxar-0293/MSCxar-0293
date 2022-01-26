@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 是一个**Five**，什么也不会，就会白嫖。:-(
 
-Srds 欢迎来[**这个一个人也没有的tg群**](https://t.me/joinchat/s8fuNr8aBzI3NjBl)水疗~
+Srds 欢迎来[**这个一个人也没有的tg群**](https://t.me/+KURisvxO60UwZDk1)水疗~
 
 然后 这是[*同样一个人也没有的申必dc群*](https://discord.gg/UUyNyMe4Jw)
