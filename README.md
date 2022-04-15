@@ -1,6 +1,6 @@
 ![我lp Ivy](https://raw.githubusercontent.com/MSCxar-0293/blog/master/pics/download_20210804164914.jpg)
 （画师[@一块巧克力](https://yikuaiqiaokeli58767.lofter.com)）
-### MSCxar0293 is a umbrella soldier（
+### What is MSCxar0293 ? 
 
 <!--
 **MSCxar-0293/MSCxar-0293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSCxar-0293&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCxar-0293&layout=compact&theme=dracula)
-(二)十四岁，事学生（bushi）
+> ~(二)十四岁，事学生（bushi）~
 
-是一个**Five**，什么也不会，就会白嫖。:-(
+> ~是一个**Five**，什么也不会，就会白嫖。:-(~
 
-Srds 欢迎来[**这个一个人也没有的tg群**](https://t.me/+KURisvxO60UwZDk1)水疗~
+↑现在大概会点东西了 吧
 
-然后 这是[*同样一个人也没有的申必dc群*](https://discord.gg/UUyNyMe4Jw)
+- GoLang学习中 ~已经离不开蓝色老鼠了~
+- 正在学习：qqbot tgbot等姬气人制作
+- 喜欢贴贴 欢迎找我贴贴
+
+Contact: [**☆tg**](https://t.me/+KURisvxO60UwZDk1)  [**☆dc**](https://discord.gg/UUyNyMe4Jw)
