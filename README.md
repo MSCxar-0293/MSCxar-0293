@@ -1,5 +1,5 @@
-![我lp Ivy](https://raw.githubusercontent.com/MSCxar-0293/blog/master/pics/download_20210804164914.jpg)
-（画师[@一块巧克力](https://yikuaiqiaokeli58767.lofter.com)）
+![虽然是描的幸运星但这表达了我对我lp的爱意捏](9baka&Mayuri.png)
+（画师[@我自己](https://github.com/MSCxar-0293)）
 ### What is MSCxar0293 ? 
 
 <!--
