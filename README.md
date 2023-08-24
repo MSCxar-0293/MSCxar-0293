@@ -1,5 +1,5 @@
-![我lp Ivy](https://raw.githubusercontent.com/MSCxar-0293/blog/master/pics/download_20210804164914.jpg)
-（画师[@一块巧克力](https://yikuaiqiaokeli58767.lofter.com)）
+![我lp Ivy](ivycard.png)
+（制图[@MSCxar-0293](https://github.com/MSCxar-0293)）
 ### What is MSCxar0293 ? 
 
 <!--
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 正在学习：qqbot tgbot等姬气人制作
 - 喜欢贴贴 欢迎找我贴贴
 
-Contact: [**☆tg**](https://t.me/+KURisvxO60UwZDk1)  [**☆dc**](https://discord.gg/UUyNyMe4Jw)
+Contact: [**☆tg**](https://t.me/+KURisvxO60UwZDk1)
